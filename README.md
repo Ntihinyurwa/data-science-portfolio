@@ -96,5 +96,5 @@ Predictive modeling to estimate customer subscription likelihood and support tar
 
 ## 📫 Let’s Connect
 
-- **LinkedIn:** *(add your LinkedIn URL here)*  
+- **LinkedIn:** *(https://www.linkedin.com/in/vincent-de-paul-ntihinyurwa/)*  
 - **GitHub:** You're already here 🙂
