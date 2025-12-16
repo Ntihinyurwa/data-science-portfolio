@@ -49,6 +49,6 @@ The following models and techniques were implemented and evaluated:
 
 ## Status
 
-✅ **Completed core modeling and evaluation**
+**Completed core modeling and evaluation**
  Notebook documentation and visual summaries are being refined for clarity and presentation
 
