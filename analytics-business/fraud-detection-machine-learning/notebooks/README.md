@@ -1,3 +1,5 @@
+**“The notebooks/ folder contains exploratory analysis and insights, while the src/ folder contains a consolidated, end-to-end modeling pipeline used for feature engineering, class imbalance handling, model training, and evaluation.”**
+
 # Notebooks
 
 This folder contains Jupyter notebooks used for exploratory data analysis, feature engineering, and model training for fraud detection.
