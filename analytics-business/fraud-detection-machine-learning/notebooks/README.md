@@ -4,6 +4,5 @@ This folder contains Jupyter notebooks used for exploratory data analysis, featu
 
 Notebooks demonstrate:
 - Transaction-level exploratory and diagnostic analysis
-- Feature engineering for fraud-related patterns
-- Training and evaluation of classification models
-- Handling class imbalance using resampling techniques
+- Discovering different insights from the dataset
+- Understanding the data to be able to perform informed feature engineering and model selection
