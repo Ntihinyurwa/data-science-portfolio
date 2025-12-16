@@ -1,3 +1,28 @@
+## Dataset
+
+This project uses a large-scale credit card transaction dataset containing **555,719 records**.
+
+### Included in this repository
+- `fraud_transactions_sample.csv`  
+  A **10,000-row stratified sample** included for quick inspection, reproducibility, and testing.
+
+### Full dataset
+Due to GitHub file size limits, the complete dataset is hosted externally:
+
+🔗 **Full Dataset (Public):**  
+[Download full dataset here](https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction)
+
+### How to run the project locally
+1. Download the full dataset from the link above
+2. Run `FraudDetection_Project_code.ipynb` end-to-end
+
+### Dataset Note
+
+This notebook was developed using a transaction dataset with **555,719 records**.
+A smaller sample dataset is included in the repository for demonstration.
+
+To reproduce full results, download the complete dataset using the link provided in `src/README.md`.
+
 ## Source Code — Fraud Detection Pipeline
 
 This folder contains the **end-to-end fraud detection modeling pipeline** implemented in a single, structured notebook for clarity and reproducibility.
