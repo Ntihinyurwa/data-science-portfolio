@@ -88,12 +88,36 @@ Each entity is defined with a clear primary key, meaningful attributes, and appr
 * Data normalization (1NF → 3NF)
 * Analytical database thinking
 
-### Tools & Methods
+## Tools & Methods
 
-* Conceptual → Logical data modeling
-* ERD design methodology
+**Design & Modeling**
+
+* Conceptual → Logical relational data modeling
+* ERD design using **Draw.io (Crow’s Foot notation)**
+* Normalization (1NF → 3NF) and business rule enforcement
+
+**Database & SQL**
+
+* **Microsoft SQL Server** (schema design & query logic)
+* SQL Data Definition Language (DDL)
+* Advanced SQL analytics:
+
+  * Multi-table joins
+  * Aggregations
+  * Subqueries
+  * Window functions (`RANK`, `PARTITION BY`)
+
+**Analytics & Validation**
+
+* Business-driven query design
+* Translating operational questions into SQL logic
+* Validation of analytical outputs against business requirements
+
+**Best Practices**
+
 * SQL-ready schema planning
-* Academic and industry best practices
+* Referential integrity and constraint design
+* Academic and industry database design standards
 
 ### Files Included
 
