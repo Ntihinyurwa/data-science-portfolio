@@ -1,18 +1,5 @@
 # Database Design & Advanced SQL Analytics
 
-## Overview
-This project focuses on relational database design, dimensional modeling, and advanced SQL analytics used to support business reporting and decision-making.
-
-The work demonstrates strong foundations in data modeling, normalization, SQL querying, and analytics-ready data preparation.
-
-## Business Problem
-Organizations rely on well-designed databases to:
-- Ensure data consistency and integrity  
-- Support efficient analytical queries  
-- Enable accurate reporting across business functions  
-
-# The project below is  an implementation of database design:
-
 ## Database Design & ERD — Austin Pet Clinic (APC)
 
 ### Overview
@@ -20,7 +7,7 @@ Organizations rely on well-designed databases to:
 This project focuses on **end-to-end relational database design** for a real-world business scenario.
 Based on a detailed operational use case for **Austin Pet Clinic (APC)**, I designed a **fully normalized Entity-Relationship Diagram (ERD)** to support clinical operations, billing, inventory management, and reporting.
 
-The goal was to translate business requirements into a **scalable, consistent, and analytics-ready database schema**.
+The goal was to translate business requirements into a **scalable and analytics-ready relational database schema**.
 
 ### Business Context
 
@@ -37,7 +24,7 @@ The system must support **operational workflows** (appointments, visits, prescri
 
 ### Solution Design
 
-I designed a **comprehensive ERD** that models the clinic’s ecosystem using well-defined entities, primary keys, foreign keys, and relationships.
+I designed a comprehensive ERD that models the clinic’s ecosystem using well-defined entities and strong relational constraints.
 
 Key design principles applied:
 
@@ -46,6 +33,19 @@ Key design principles applied:
 * Proper handling of **one-to-many** and **many-to-many** relationships
 * Separation of **clinical**, **administrative**, and **financial** data
 * Strong **referential integrity** for reliable querying and reporting
+
+## SQL Implementation
+
+This project includes SQL Data Definition Language (DDL) scripts derived directly from the ERD, as well as analytical SQL queries demonstrating real-world reporting and business analysis use cases.
+
+### SQL Components
+- Schema creation with primary and foreign key constraints
+- Multi-table joins across clinical and financial entities
+- Aggregate reporting (revenue, usage, workload)
+- Subqueries for comparative analysis
+
+The SQL design reflects production-ready database modeling and analytics workflows.
+
 
 ### Core Entities
 
@@ -63,11 +63,7 @@ The final design includes (but is not limited to):
 * **Supplier** — Medication vendors
 * **Invoice** — Aggregated financial charges
 
-Each entity is defined with:
-
-* A clear **primary key**
-* Meaningful **attributes**
-* Appropriate **foreign key relationships**
+Each entity is defined with a clear primary key, meaningful attributes, and appropriate foreign key relationships.
 
 ### ERD Highlights
 
