@@ -4,6 +4,8 @@
 
 This project applies **supervised machine learning techniques** to detect fraudulent credit card transactions using a **large-scale transactional dataset containing over 555,000 records**. Click [here] (https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction) to get the full dataset. [Get dataset]([URL](https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction))
 
+I’m currently working on [Fraud Detection Project](https://github.com/Nithinyurwa/fraud-detection)
+
 
 The primary objective is to identify rare fraud events within a **highly imbalanced dataset**, while balancing fraud detection performance with business risk, such as false declines of legitimate transactions.
 
