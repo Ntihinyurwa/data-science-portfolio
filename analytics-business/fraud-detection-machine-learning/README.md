@@ -8,6 +8,16 @@ This project applies **supervised machine learning techniques** to detect fraudu
 
 The primary objective is to identify rare fraud events within a **highly imbalanced dataset**, while balancing fraud detection performance with business risk, such as false declines of legitimate transactions.
 
+### How to run the project locally
+1. Download the full dataset from the link above
+2. Run `FraudDetection_Project_code.ipynb` end-to-end
+
+### Dataset Note
+
+This notebook was developed using a transaction dataset with **555,719 records**.
+A smaller sample dataset is included in the repository for demonstration.
+
+To reproduce full results, download the complete dataset using the provided link.
 ## Business Problem
 
 Fraudulent transactions present significant challenges for financial institutions, including:
